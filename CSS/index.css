@@ -1,0 +1,19 @@
+p {
+    color: green;
+}
+
+h1{
+    color: red; 
+}
+
+/* class selector */
+.calamity{
+    color: chocolate;
+}
+
+/* id selctor */
+/* used to select and add style to a specifc html element  */
+#uniqueEle{
+    font-size: 2rem;
+    color: lightpink;
+}
